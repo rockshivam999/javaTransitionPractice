@@ -10,3 +10,5 @@
 - [ ] DOUBLY LINKED LIST
 - [ ] TREES
 - [ ] GRAPH
+
+## I will add more topics with time
