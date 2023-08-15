@@ -1,12 +1,12 @@
 # DAILIY AT LEASAT 2 QUESTIONS
 
-- [ ] ARRAY 
+- [ ] ARRAY
 - [ ] ARRAY LIST
 - [ ] STACKS
 - [ ] QUEUES
 - [ ] HASH MAP
 - [ ] TREE MAP
-- [ ] LINKED LIST
+- [x] LINKED LIST
 - [ ] DOUBLY LINKED LIST
 - [ ] TREES
 - [ ] GRAPH
