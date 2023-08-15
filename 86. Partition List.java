@@ -8,6 +8,7 @@
  * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+// https://leetcode.com/problems/partition-list/
 class Solution {
     public ListNode partition(ListNode head, int x) {
         ListNode less = new ListNode(10);
